@@ -46,7 +46,7 @@ where I can contribute to real-world systems and grow as an engineer.
 
 ## 📫 Contact
 - GitHub: https://github.com/6510615252  
-- Email: [your-email-here]
+- Email: peerapol2015@outlook.com
 
 ---
 
