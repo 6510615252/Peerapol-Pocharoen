@@ -12,11 +12,12 @@ I enjoy working with cloud technologies and designing systems that handle real-w
 ---
 
 ## 🛠 Tech Stack
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB, Redis  
-- **Realtime:** Socket.io  
-- **Cloud:** AWS (EC2, S3)  
-- **Other:** REST APIs, Authentication (JWT), Docker  
+- **Programming Languages**: Python, Java, JavaScript, Dart
+- **Frontend**: React.js, HTML, CSS, Bootstrap
+- **Backend**: Node.js, Express.js, Django, REST APIs
+- **Databases**: PostgreSQL, MongoDB, MySQL, Redis, Firebase
+- **Cloud & Tools**: AWS , Docker, Git, Postman, Azure
+- **Other**: Socket.io, Figma
 
 ---
 
